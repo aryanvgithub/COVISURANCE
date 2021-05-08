@@ -26,4 +26,5 @@ Getting the best healthcare will be everyone’s aim even after this pandemic ge
 
 # Running Code on Local Machine
 Python Libraries to be installed: OpenCv, pytesseract
+
 Download tesseract-orc from: https://tesseract-ocr.github.io/tessdoc/Downloads.html
