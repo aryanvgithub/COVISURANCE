@@ -23,3 +23,7 @@ For Document verification we have used Python along with it's OpenCV and Tessera
  
 # Use Cases and Future scope:
 Getting the best healthcare will be everyone’s aim even after this pandemic gets over. Presently our concern is to provide instant hassle-free health insurance against Covid-19. In future this Blockchain based health-insurance system can be deployed as a general model and help people getting their claims and enabling them to get the best treatment immediately.
+
+# Running Code on Local Machine
+Python Libraries to be installed: OpenCv, pytesseract
+Download tesseract-orc from: https://tesseract-ocr.github.io/tessdoc/Downloads.html
